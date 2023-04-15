@@ -1,0 +1,148 @@
+.main {
+    position: relative;
+    height: 2358px;
+    width: 1728px;
+    border-radius: 0px;
+    background-color: #FFFFFF;
+
+}
+
+.rectangle1 {
+    box-sizing: border-box;
+    position: absolute;
+    height: 648.57px;
+    width: 1643px;
+    left: 38px;
+    top: 47px;
+    border: 2px solid #000000
+}
+
+.heading1 {
+    /* height: 613.5435791015625px;
+    width: 1540.5126953125px;
+    left: 89px;
+    top: 94.4564208984375px;
+    border-radius: nullpx;
+    position: absolute; */
+
+    text-decoration-line: underline;
+    color: #000000;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.heading2 {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration-line: underline;
+    color: #000000;
+
+}
+
+.text1 {
+    height: 613.5435791015625px;
+    width: 1540.5126953125px;
+    left: 89px;
+    top: 94.4564208984375px;
+    border-radius: nullpx;
+    position: absolute;
+
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.heading3 {
+    position: absolute;
+    height: 77px;
+    width: 962px;
+    left: 58px;
+    top: 742px;
+    border-radius: nullpx;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-style: normal;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+.img1 {
+    position: absolute;
+    height: 762px;
+    width: 1051px;
+    left: 58px;
+    top: 874px;
+    border-radius: 0px;
+    background: url(images/dog.webp);
+
+}
+
+.heading4 {
+    position: absolute;
+    font-style: normal;
+    height: 48px;
+    width: 245px;
+    left: 58px;
+    top: 1670px;
+    border-radius: nullpx;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+.heading5 {
+    position: absolute;
+    height: 469px;
+    width: 1623px;
+    left: 58px;
+    top: 1795px;
+    border-radius: nullpx;
+
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+.ol1 {
+    position: absolute;
+    height: 469px;
+    width: 1623px;
+    left: 58px;
+    top: 1900px;
+    border-radius: nullpx;
+
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
